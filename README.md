@@ -78,7 +78,8 @@ npm install npm@latest -g
 ### Then clone the booking app
 
 ```sh
-npm clone git@github.com:mcdieg/heroes.git
+npm clone git@github.com:mcdieg/libheros-client.git
+npm clone git@github.com:mcdieg/libheros-api.git
 ```
 
 ## :rocket: Usage
