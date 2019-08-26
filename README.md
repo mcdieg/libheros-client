@@ -2,7 +2,7 @@
 
 > Booking app using Node.js GraphQL and Angular
 
-A `simple` :zap: booking app
+A `simple` :zap: booking app, find the api repo [here](https://github.com/mcdieg/libheros-api/)
 
 ## :books: Table of Contents
 
